@@ -40,7 +40,7 @@ Install dependencies with:
 
 ## Usage
 1. Clone the repository:
-git clone https://github.com/mayuriagashe1111/CodeAlpha_LeafDiseaseDetection.git
+git clone https://github.com/mayuriagashe1111/CodeAlpha_LeafDiseaseDetection.git](https://github.com/Abdulhadyyy/CodeAlpha_Leaf_Disease_Detection
 
 2. Place your dataset in the Dataset/ directory.
 3. Run the Jupyter Notebook:
